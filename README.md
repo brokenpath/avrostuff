@@ -7,3 +7,8 @@ https://github.com/plokhotnyuk/jsoniter-scala
 
 
 use jhm
+
+
+https://cwiki.apache.org/confluence/display/Hive/DeveloperGuide#DeveloperGuide-HowtoWriteYourOwnSerDe
+
+https://jaceklaskowski.gitbooks.io/mastering-spark-sql/spark-sql-Encoder.html

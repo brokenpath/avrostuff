@@ -14,3 +14,7 @@ https://github.com/ktoso/sbt-jmh
 https://cwiki.apache.org/confluence/display/Hive/DeveloperGuide#DeveloperGuide-HowtoWriteYourOwnSerDe
 
 https://jaceklaskowski.gitbooks.io/mastering-spark-sql/spark-sql-Encoder.html
+
+
+Encoding
+https://timpigden.github.io/_pages/magnolia-avro/intro.html

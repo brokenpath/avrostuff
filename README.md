@@ -8,6 +8,7 @@ https://github.com/plokhotnyuk/jsoniter-scala
 
 
 use jhm
+https://github.com/ktoso/sbt-jmh
 
 
 https://cwiki.apache.org/confluence/display/Hive/DeveloperGuide#DeveloperGuide-HowtoWriteYourOwnSerDe
